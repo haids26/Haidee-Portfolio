@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Haidee Capili | Customer Service & Virtual Assistant</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-white shadow-md sticky top-0 z-50">
+    <div class="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-2xl font-bold text-indigo-600">Haidee Capili</h1>
+      <nav class="space-x-4 text-sm">
+        <a href="#about" class="hover:text-indigo-600">About</a>
+        <a href="#experience" class="hover:text-indigo-600">Experience</a>
+        <a href="#skills" class="hover:text-indigo-600">Skills</a>
+        <a href="#contact" class="hover:text-indigo-600">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="text-center py-16 bg-indigo-100">
+    <h2 class="text-4xl font-bold text-indigo-700 mb-4">Customer Service Representative & Virtual Assistant</h2>
+    <p class="max-w-2xl mx-auto text-gray-700 text-lg">
+      Dedicated to delivering exceptional customer experiences through professionalism, empathy, and efficiency.
+      Proficient in using <strong>Shopify</strong> for managing orders, subscriptions, and customer inquiries.
+    </p>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="max-w-5xl mx-auto px-6 py-12">
+    <h3 class="text-2xl font-semibold text-indigo-700 mb-4">About Me</h3>
+    <p class="text-gray-700 leading-relaxed">
+      I’m <strong>Haidee Capili</strong>, a customer service professional with over two years of experience providing 
+      timely and accurate assistance via email and chat. I handle order inquiries, shipping updates, and refunds 
+      with care and attention to detail. My background as a <strong>Certified Virtual Assistant</strong> has enhanced 
+      my ability to multitask, communicate effectively, and maintain a high standard of professionalism in every interaction.
+    </p>
+  </section>
+
+  <!-- Experience Section -->
+  <section id="experience" class="bg-white py-12">
+    <div class="max-w-5xl mx-auto px-6">
+      <h3 class="text-2xl font-semibold text-indigo-700 mb-6">Experience</h3>
+
+      <div class="mb-8">
+        <h4 class="text-xl font-semibold text-gray-800">Customer Service Representative</h4>
+        <p class="text-gray-600 italic">2023 – Present</p>
+        <ul class="list-disc list-inside text-gray-700 mt-2 space-y-1">
+          <li>Provide timely and accurate customer support via email.</li>
+          <li>Handle inquiries related to orders, shipping, refunds, and product details with professionalism and empathy.</li>
+          <li>Utilize Shopify for order management, cancellations, subscription updates, and tracking.</li>
+          <li>Maintain detailed communication logs and ensure customer satisfaction.</li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 class="text-xl font-semibold text-gray-800">Virtual Assistant (Freelance)</h4>
+        <p class="text-gray-600 italic">2022 – 2023</p>
+        <ul class="list-disc list-inside text-gray-700 mt-2 space-y-1">
+          <li>Assisted clients with administrative tasks, email correspondence, and scheduling.</li>
+          <li>Managed Shopify dashboards for order updates and inventory checks.</li>
+          <li>Handled data entry, document organization, and customer follow-ups.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills" class="max-w-5xl mx-auto px-6 py-12">
+    <h3 class="text-2xl font-semibold text-indigo-700 mb-4">Skills & Tools</h3>
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 text-gray-700">
+      <div class="bg-indigo-50 p-4 rounded-lg text-center font-medium">Shopify Management</div>
+      <div class="bg-indigo-50 p-4 rounded-lg text-center font-medium">Customer Email Support</div>
+      <div class="bg-indigo-50 p-4 rounded-lg text-center font-medium">Order & Refund Processing</div>
+      <div class="bg-indigo-50 p-4 rounded-lg text-center font-medium">Subscription Management</div>
+      <div class="bg-indigo-50 p-4 rounded-lg text-center font-medium">CRM Tools</div>
+      <div class="bg-indigo-50 p-4 rounded-lg text-center font-medium">Administrative Support</div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="bg-indigo-700 text-white py-12">
+    <div class="max-w-5xl mx-auto px-6 text-center">
+      <h3 class="text-2xl font-semibold mb-4">Get In Touch</h3>
+      <p class="max-w-xl mx-auto mb-6">
+        Interested in working together or learning more about my experience?  
+        Feel free to reach out — I’d love to connect.
+      </p>
+      <p class="font-medium">📧 <a href="mailto:[your-email]@gmail.com" class="underline hover:text-indigo-200">[your-email]@gmail.com</a></p>
+      <p class="font-medium mt-2">📞 [Your Contact Number]</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center text-sm text-gray-500 py-6">
+    © 2025 Haidee Capili · Built with ❤️ and dedication to great customer service
+  </footer>
+</body>
+</html>
